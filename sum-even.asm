@@ -5,7 +5,7 @@ include irvine32.inc
 .data
 arr1 SWORD 1,2,-6,8,-5,9,-8,-9,-7
 msg1 BYTE 'Sum of all even elements: ',0
-msg2 BYTE 'No. of negative elements: ',0
+msg2 BYTE 'No. of even elements: ',0
 sum SDWORD 0
 .code
 main proc
