@@ -13,7 +13,7 @@ reg #   23-NTU-CS-1126  Name # Afia Maham
 remarks about sum-even
 
 uses test command to check each element of array with 1h. jump to add even numbers of array
-if zero flag is set otherwise skip it. In the end, display sum and total numbers of even in array.
+if zero flag is set otherwise skip it. In the end, display sum and total numbers of even in array
 
 
 remarks about sum-odd
